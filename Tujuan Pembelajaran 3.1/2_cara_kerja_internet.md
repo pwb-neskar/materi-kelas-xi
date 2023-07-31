@@ -128,9 +128,6 @@ Video bagaimana internet bekerja : [How the Internet Works in 5 Minutes](https:/
 
 *Thanks To* : [roadmap.sh](https://roadmap.sh/)
 
-
-[Home](README.md)
-[Back](1_pengantar_web_programing.md)
-[Next](3_website_dan_halaman_web.md)
+[Home](README.md) | [Back](1_pengantar_web_programing.md) | [Next](3_website_dan_halaman_web.md)
 
 

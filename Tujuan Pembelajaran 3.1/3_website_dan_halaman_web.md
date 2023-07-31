@@ -71,8 +71,6 @@ Berikut adalah contoh Firefox yang menampilkan kotak pencarian Google sebagai ha
 
 source : [mdn_web_docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)
 
-*Thanks To* : (roadmap.sh)[https://roadmap.sh/]
+*Thanks To* : [roadmap.sh](https://roadmap.sh/)
 
-[Home](README.md)
-[Back](2_cara_kerja_internet.md)
-[Next](4_web_server.md)
+[Home](README.md) | [Back](2_cara_kerja_internet.md) | [Next](4_web_server.md)

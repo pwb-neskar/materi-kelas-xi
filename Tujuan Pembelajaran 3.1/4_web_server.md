@@ -23,6 +23,4 @@ Misalnya, untuk menghasilkan halaman web akhir yang Anda lihat di browser, serve
 
 *Thanks To* : [roadmap.sh](https://roadmap.sh/)
 
-[Home](README.md)
-[Back](3_website_dan_halaman_web.md)
-[Next](5_web_browser.md)
+[Home](README.md) | [Back](3_website_dan_halaman_web.md) | [Next](5_web_browser.md)
