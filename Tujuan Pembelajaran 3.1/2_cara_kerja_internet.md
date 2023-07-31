@@ -123,5 +123,14 @@ Saya harap artikel ini bermanfaat bagi Anda. Jika Anda memiliki pertanyaan atau 
 
 
 Video bagaimana internet bekerja : [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+
 *Source* : [https://cs.fyi/guide/how-does-internet-work#introduction-to-the-internet](https://cs.fyi/guide/how-does-internet-work#introduction-to-the-internet)
-*Thanks To* : (roadmap.sh)[https://roadmap.sh/]
+
+*Thanks To* : [roadmap.sh](https://roadmap.sh/)
+
+
+[Home](README.md)
+[Back](1_pengantar_web_programing.md)
+[Next](3_website_dan_halaman_web.md)
+
+

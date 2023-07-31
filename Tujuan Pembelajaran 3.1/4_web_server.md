@@ -17,3 +17,12 @@ Untuk menerbitkan situs web, Anda memerlukan server web statis atau dinamis.
 **Server web dinamis** terdiri dari server web statis ditambah perangkat lunak tambahan, paling sering adalah server aplikasi dan database . Kami menyebutnya "dinamis" karena server aplikasi memperbarui file yang dihosting sebelum mengirim konten ke browser Anda melalui server HTTP.
 
 Misalnya, untuk menghasilkan halaman web akhir yang Anda lihat di browser, server aplikasi mungkin mengisi template HTML dengan konten dari database. Situs seperti MDN atau Wikipedia memiliki ribuan halaman web. Biasanya, situs semacam ini hanya terdiri dari beberapa template HTML dan database raksasa, bukan ribuan dokumen HTML statis. Penyiapan ini mempermudah pemeliharaan dan pengiriman konten.
+
+
+
+
+*Thanks To* : [roadmap.sh](https://roadmap.sh/)
+
+[Home](README.md)
+[Back](3_website_dan_halaman_web.md)
+[Next](5_web_browser.md)
