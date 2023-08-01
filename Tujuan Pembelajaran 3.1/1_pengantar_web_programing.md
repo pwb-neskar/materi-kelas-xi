@@ -68,4 +68,6 @@ Apakah kamu pernah mendengar istilah SEO atau Search Engine Optimization? Ia mer
 
 SEO melibatkan beberapa faktor sehingga website dapat muncul sebagai peringkat pertama, salah satunya adalah keyword (kata kunci). Praktik yang tepat dapat membantu meningkatkan peringkat website di mesin pencari, seperti Google, Duckduckgo, Bing, dsb. 
 
+*Source* : [dicoding](https://www.dicoding.com/blog/intro-ke-pengembangan-aplikasi-web/)
+
 [Home](README.md) | [Next](2_cara_kerja_internet.md)
