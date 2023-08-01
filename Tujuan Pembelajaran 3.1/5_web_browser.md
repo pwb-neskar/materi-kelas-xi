@@ -29,7 +29,7 @@ Browser Modern: Google Chrome diluncurkan pada tahun 2008 dan menjadi salah satu
 
 * Mesin browser mengelola dan mengatur interaksi antara user interface, rendering engine, dan jaringan.
 
-### 4.Jaringan (Network)
+### 4. Jaringan (Network)
 
 * Komponen ini bertanggung jawab untuk mengelola permintaan dan respon yang dikirimkan melalui internet, termasuk mengunduh halaman web dan kontennya.
 
