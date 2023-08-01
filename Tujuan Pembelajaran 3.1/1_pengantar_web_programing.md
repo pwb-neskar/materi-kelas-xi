@@ -29,15 +29,23 @@ Sebelum membahas hal tersebut, kita perlu mengetahui terlebih dulu beberapa hal,
 ### Bahasa Markup/Pemrograman
 
 Ada tiga buah komponen yang menjadi landasan dalam membangun aplikasi web. Suatu web tidak bisa dikatakan sebagai aplikasi web jika ada salah satu komponen yang ditinggalkan. Jadi, setiap komponen tersebut akan saling melengkapi. Tiga komponen yang dimaksud adalah HTML, CSS, dan JavaScript.
+
 * HTML
+  
   ![html](https://www.dicoding.com/blog/wp-content/uploads/2023/04/intro-ke-pengembangan-aplikasi-web-05.png)
+
   HTML merupakan singkatan dari Hypertext Markup Language. Ia merupakan salah satu dan satu-satunya bahasa markup yang memiliki tujuan utama, yaitu mendefinisikan struktur atau kerangka dari halaman web. Ia merupakan komponen yang paling utama dalam membangun halaman web. 
+
 * CSS
+  
   ![css](https://www.dicoding.com/blog/wp-content/uploads/2023/04/intro-ke-pengembangan-aplikasi-web-06.png)
   
   CSS adalah singkatan dari Cascading Style Sheets. Selain sebagai bahasa markup, ia juga berfungsi untuk memberikan styling pada struktur halaman web yang dibangun. Membuat halaman web dengan kerangkanya saja (HTML) mungkin akan terlihat membosankan. Kami yakin sebagian besar dari pembaca setuju dengan hal tersebut. Kekurangan ini bisa dihilangkan dengan CSS. Selain menghias, kita bisa mengatur tata letak setiap konten HTML dengan fleksibel.
+
 * JavaScript
+  
   ![js](https://www.dicoding.com/blog/wp-content/uploads/2023/04/intro-ke-pengembangan-aplikasi-web-07.png)
+
   Membangun website dengan HTML dan CSS mungkin sudah lebih dari cukup. Namun, sering kali kita ingin menghidupkannya dengan memberikan interaktivitas dari pengguna. Hal ini bisa dipenuhi dengan JavaScript. Ia merupakan satu-satunya bahasa pemrograman yang saat ini dimengerti oleh website (browser). Pada awalnya, JavaScript hanya dibangun untuk memenuhi kebutuhan website. Namun, seiring berkembangnya teknologi, JavaScript mulai merambah untuk memenuhi berbagai kebutuhan lainnya.
 *Thanks To* : (roadmap.sh)[https://roadmap.sh/]
 
