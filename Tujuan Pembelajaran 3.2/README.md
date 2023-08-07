@@ -7,4 +7,4 @@ Pada tujuan pembelajaran kali ini kita akan mempelajari tentang :
 4. [HTML Table](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
 5. [HTML Form](https://www.w3schools.com/html/html_forms.asp)
 6. [Best Practice HTML](https://github.com/hail2u/html-best-practices/blob/main/README.id.md)
-7. Tugas
+7. [Tugas](assigment_html.md)
