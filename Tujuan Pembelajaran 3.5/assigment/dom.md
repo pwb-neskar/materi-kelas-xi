@@ -97,6 +97,9 @@ Release 0 dan Release 1 : Menampilkan barang dengan DOM dan memfilternya melalui
 Simulasi Hasil Release 2
 Berikut contoh hasil untuk release 2
 
-![release-2](img/release-2-dom-challenge.gif
+![release-2](img/release-2-dom-challenge.gif)
 
 Release 2: menambahkan barang ke keranjang
+
+
+*pengumpulan maksimal 17 September 2023 Pukul 23:00*
