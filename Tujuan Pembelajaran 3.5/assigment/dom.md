@@ -91,6 +91,7 @@ Simulasi Hasil Release 0 dan Release 1
 Berikut contoh hasil untuk release 0 dan release 1:
 
 ![release-0-release-1](img/release-1-dom-challenge.gif)
+
 Release 0 dan Release 1 : Menampilkan barang dengan DOM dan memfilternya melalui form search
  
 
