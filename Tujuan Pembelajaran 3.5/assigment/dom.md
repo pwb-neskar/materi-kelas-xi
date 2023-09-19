@@ -101,6 +101,3 @@ Berikut contoh hasil untuk release 2
 ![release-2](img/release-2-dom-challenge.gif)
 
 Release 2: menambahkan barang ke keranjang
-
-
-*pengumpulan maksimal 17 September 2023 Pukul 23:00*
