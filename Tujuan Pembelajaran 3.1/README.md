@@ -6,4 +6,4 @@ Pada tujuan pembelajaran kali ini kita akan mempelajari tentang :
 3. [Website dan halaman web](3_website_dan_halaman_web.md)
 4. [Web server](4_web_server.md)
 5. [Web browser](5_web_browser.md)
-6. [Anatomi website](6_software_requirement.md)
+6. [Software Requirements](6_software_requirement.md)
