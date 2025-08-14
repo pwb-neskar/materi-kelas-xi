@@ -12,18 +12,18 @@ Petunjuk Pengerjaan
    ![index.html](asset/index.png)
 
 2. Buat halaman form
-   Buatlah file baru bernama **form.html** yang berisi form seperti berikut :\
-   *nb: Gunakan Element Form untuk Menuju ke welcome.html*
+   Buatlah file baru bernama **form.html** yang berisi form seperti berikut : \
+   *nb: Gunakan Element Form untuk Menuju ke welcome.html* \
    ![form.html](asset/form.png)
 
 3. Buat halaman selamat datang
-   Setelah user berhasil mendaftar, berikan halaman **welcome.html** yang memberikan ucapan selamat datang seperti berikut:\
-   *nb: tambahkan Element anchor / link untuk Menuju ke data.html dan index.html*
+   Setelah user berhasil mendaftar, berikan halaman **welcome.html** yang memberikan ucapan selamat datang seperti berikut: \
+   *nb: tambahkan Element anchor / link untuk Menuju ke data.html dan index.html* \
    ![welcome.html](asset/welcome.png)
 
 4. Buat halaman list data siswa
-   Setelah user berhasil mendaftar, berikan halaman **data.html** yang memberikan ucapan selamat datang seperti berikut:\
-   *nb: tambahkan Element anchor / link untuk ke index.html dan form.html*
+   Setelah user berhasil mendaftar, berikan halaman **data.html** yang memberikan ucapan selamat datang seperti berikut: \
+   *nb: tambahkan Element anchor / link untuk ke index.html dan form.html* \
    ![data.html](asset/tabel.jpg)
 
 ### Hasil Akhir
