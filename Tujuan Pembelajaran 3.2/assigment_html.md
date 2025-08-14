@@ -22,7 +22,7 @@ Petunjuk Pengerjaan
 
 4. Buat halaman list data siswa
    Setelah user berhasil mendaftar, berikan halaman welcome.html yang memberikan ucapan selamat datang seperti berikut:
-   ![welcome.html](asset/tabel.jpg)
+   ![data.html](asset/tabel.jpg)
    
 
 ### Hasil Akhir
