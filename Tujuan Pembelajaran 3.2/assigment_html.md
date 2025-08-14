@@ -20,6 +20,11 @@ Petunjuk Pengerjaan
    Setelah user berhasil mendaftar, berikan halaman welcome.html yang memberikan ucapan selamat datang seperti berikut:
    ![welcome.html](asset/welcome.png)
 
+4. Buat halaman list data siswa
+   Setelah user berhasil mendaftar, berikan halaman welcome.html yang memberikan ucapan selamat datang seperti berikut:
+   ![welcome.html](asset/tabel.jpg)
+   
+
 ### Hasil Akhir
 
 Setelah semua file html yang kita perlukan siap, maka website kita sudah berjalan jika kita mulai dari index.html
